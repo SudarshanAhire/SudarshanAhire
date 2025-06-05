@@ -16,10 +16,10 @@
 - Building AI-enabled full-stack apps
 
 ## 📌 Featured Projects
-- 🔬 Crop Recommendation System** – [Link]
-- 🛒 Online DJ Booking System – [Link]
+- 🔬 Crop Recommendation System – 
+- 🛒 Online DJ Booking System – 
 - 📝 Todos List App (React) – https://paste-app-chi-ebon.vercel.app/
-- 🧾 Amazon Clone Page – [Link]
+- 🧾 Amazon Clone Page – 
 
 ## 📫 Connect with Me
 - 📧 Email: sudarshanahire68@gmail.com
