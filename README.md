@@ -17,8 +17,8 @@
 
 ## 📌 Featured Projects
 - 🔬 Crop Recommendation System** – [Link]
-- 🛒 Online Cart System (DBMS Mini Project) – [Link]
-- 📝 Todos List App (React) – [Link]
+- 🛒 Online DJ Booking System – [Link]
+- 📝 Todos List App (React) – https://paste-app-chi-ebon.vercel.app/
 - 🧾 Amazon Clone Page – [Link]
 
 ## 📫 Connect with Me
