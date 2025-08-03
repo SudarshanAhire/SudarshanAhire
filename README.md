@@ -19,7 +19,8 @@
 - 🔬 Crop Recommendation System – 
 - 🛒 Online DJ Booking System – 
 - 📝 Todos List App (React) – https://paste-app-chi-ebon.vercel.app/
-- 🧾 Amazon Clone Page – 
+- 🔗 URL Shortener –
+- 🔐 Password Manager
 
 ## 📫 Connect with Me
 - 📧 Email: sudarshanahire68@gmail.com
