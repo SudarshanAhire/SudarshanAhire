@@ -16,8 +16,6 @@
 - Building AI-enabled full-stack apps
 
 ## 📌 Featured Projects
-- 🔬 Crop Recommendation System – 
-- 🛒 Online DJ Booking System – 
 - 📝 Todos List App (React) – https://paste-app-chi-ebon.vercel.app/
 - 🔗 URL Shortener – https://url-shortener-seven-rouge.vercel.app/
 - 🔐 Password Manager - https://password-manager-five-theta.vercel.app/
