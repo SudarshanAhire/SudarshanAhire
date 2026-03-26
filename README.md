@@ -3,7 +3,7 @@
 🚀 MERN Stack Developer | 📊 AI/ML Enthusiast | 🎓 Final Year B.E. Student  
 🎯 Passionate about building real-world problem-solving software.
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=SudarshanAhire&style=flat-square&color=brightgreen" />
 </p>
 
