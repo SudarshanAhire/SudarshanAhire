@@ -3,6 +3,9 @@
 🚀 MERN Stack Developer | 📊 AI/ML Enthusiast | 🎓 Final Year B.E. Student  
 🎯 Passionate about building real-world problem-solving software.
 
+![Profile Views](https://komarev.com/ghpvc/?username=SudarshanAhire&color=blue&style=flat)
+
+
 ## 🛠️ Tech Stack
 - 💻 Languages: C++, JavaScript, Python, SQL
 - 🌐 Frontend: HTML, CSS, Tailwind, React.js
