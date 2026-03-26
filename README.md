@@ -3,7 +3,7 @@
 🚀 MERN Stack Developer | 📊 AI/ML Enthusiast | 🎓 Final Year B.E. Student  
 🎯 Passionate about building real-world problem-solving software.
 
-![Profile Views](https://komarev.com/ghpvc/?username=SudarshanAhire&color=blue&style=flat)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SudarshanAhire)
 
 
 ## 🛠️ Tech Stack
